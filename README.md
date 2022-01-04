@@ -1,7 +1,6 @@
 - 👋  Hi, I’m @arnoldboy123
-- 👀  I’m interested in a career in coding
-- 🐶  I'm obsessed with dogs
-- 🌱  I’m currently learning Ruby on Rails, Javascript and how to not kill my house plants
+- 🐶  I'm obsessed with dogs (I work as a Software Engineer at a healthy dog food company)
+- 🌱  I’m currently doing CS50 course on EdX to brush up my cs fundamentals
 - 💞️  I’m looking to collaborate on beginner friendly open source projects
 - 📫  How to reach me: tchoarnold@gmail.com
 
