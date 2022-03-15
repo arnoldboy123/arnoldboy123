@@ -1,7 +1,7 @@
 - 👋  Hi, I’m @arnoldboy123
 - 🐶  I'm obsessed with dogs (I work as a Software Engineer at a healthy dog food company)
-- 🌱  I’m currently doing CS50 course on EdX to brush up my cs fundamentals
-- 💞️  I’m looking to collaborate on beginner friendly open source projects
+- 💞️  I’m looking to collaborate on fun and friendly open source projects
+- 🌾  I'm obsessed with [Stardew Valley](https://www.stardewvalley.net/) and have about 500 stardew valley wiki tabs open at any given time
 - 📫  How to reach me: tchoarnold@gmail.com
 
 <!---
