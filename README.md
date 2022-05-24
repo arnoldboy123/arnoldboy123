@@ -1,7 +1,9 @@
 - 👋  Hi, I’m @arnoldboy123
-- 🐶  I'm obsessed with dogs (I work as a Software Engineer at a healthy dog food company)
+- 🐶  I'm love with dogs (I work as a Software Engineer at a healthy dog food company)
+- 🔤  Languages: Ruby, Javascript (Typescript)
+- 📚  Framework, Libraries & Tools: Ruby on Rails, React.js, Apollo GraphQL
+- ⛔️  CI/CD pipeline: Heroku, MergeQueue, Launch Darkly, Sentry, Amplitude, ES Lint, Sass Lint, Rubocop
 - 💞️  I’m looking to collaborate on fun and friendly open source projects
-- 🌾  I'm obsessed with [Stardew Valley](https://www.stardewvalley.net/) and have about 500 stardew valley wiki tabs open at any given time
 - 📫  How to reach me: tchoarnold@gmail.com
 
 <!---
