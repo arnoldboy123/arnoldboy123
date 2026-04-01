@@ -1,4 +1,4 @@
-- 👋  Hi, I’m @arnoldboy123
+👋  Hi, I’m @arnoldboy123
 
 <!---
 arnoldboy123/arnoldboy123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
